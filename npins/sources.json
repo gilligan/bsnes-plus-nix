@@ -1,0 +1,19 @@
+{
+  "pins": {
+    "nixpkgs": {
+      "type": "GitRelease",
+      "repository": {
+        "type": "GitHub",
+        "owner": "nixos",
+        "repo": "nixpkgs"
+      },
+      "pre_releases": false,
+      "version_upper_bound": null,
+      "version": "20.03",
+      "revision": "ce342ae31d3d542f1243f01a36c46438261cbfb6",
+      "url": "https://api.github.com/repos/nixos/nixpkgs/tarball/20.03",
+      "hash": "0182ys095dfx02vl2a20j1hz92dx3mfgz2a6fhn31bqlp1wa8hlq"
+    }
+  },
+  "version": 3
+}
